@@ -1,4 +1,4 @@
-ource("downloadArchive.R")
+source("downloadArchive.R")
 
 # Load the NEI & SCC data frames.
 NEI <- readRDS("summarySCC_PM25.rds")
